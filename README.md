@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# raidtracker
+Adds a bazzer to the foo
